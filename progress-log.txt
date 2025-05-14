@@ -16,3 +16,4 @@ Notes:
 Next steps:
 1. Test the website locally by opening /Users/norvin/Desktop/sugosure-website/www.sugosure.com/index.html in a browser
 2. Push to GitHub when ready for GitHub Pages setup
+Wed May 14 21:17:40 +08 2025: Reorganized files for GitHub Pages
