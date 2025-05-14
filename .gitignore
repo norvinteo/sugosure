@@ -1,3 +1,4 @@
+# Ignore duplicate files
+* 2.*
+*\ 2*
 .DS_Store
-*.log
-!progress-log.txt
